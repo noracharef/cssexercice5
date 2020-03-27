@@ -2,15 +2,17 @@ div {
     text-align: center;
    }
 
-div {
-    background-image: image;
+body {
+  
     height: 250px;
     width: 900px;
-    background: url(https://www.liberaldictionary.com/wp-content/uploads/2019/01/background-9120.jpg);
+    background: url("../image/background.jpg");
+    background-repeat: no-repeat;
+    
   }
 
    
   
-.center {
+.center {S
   text-align: center;
 }
