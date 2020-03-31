@@ -1,18 +1,11 @@
-div {
-    text-align: center;
-   }
 
 body {
-  
-    height: 250px;
-    width: 900px;
-    background: url("../image/background.jpg");
-    background-repeat: no-repeat;
+
+  background-image: url("../image/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
     
   }
 
    
   
-.center {S
-  text-align: center;
-}
